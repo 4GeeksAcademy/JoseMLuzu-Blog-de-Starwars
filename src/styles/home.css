@@ -1,0 +1,29 @@
+.card-title1{
+    color: white;
+    margin-bottom: 15px;
+}
+
+.card{
+    border-color: black;
+}
+
+button{
+    background-color: brown;
+}
+
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/02/43/75/73/360_F_243757367_gBpS6R5c8DB7pL5gw9gi9KXlzFfbdZOA.jpg");
+}
+
+p, h5{
+    color: white;
+    font-size: larger;
+}
+
+h3{
+    color: white;
+}
+
+.dots{
+    background-color: aliceblue;
+}

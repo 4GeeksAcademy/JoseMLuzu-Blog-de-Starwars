@@ -1,3 +1,45 @@
 /* 
     General Styles
 */
+@import url('https://fonts.cdnfonts.com/css/star-wars');
+
+
+ 
+    /*background-image: url("https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-14_856985d9.jpeg");
+    background-size: 2000px 1000px; 
+    background-repeat: no-repeat; 
+}*/
+
+h2 {
+    font-family: 'Star Wars', sans-serif;
+    color: white;
+}
+
+body{
+cursor: url('../../Fonts/cursor.cur'), auto;
+background-color: black;
+
+}
+
+a:hover{
+    cursor: url(https://cur.cursors-4u.net/mechanics/mec-1/mec68.cur), auto !important;
+  
+}
+
+button:hover{
+    cursor: url(https://cur.cursors-4u.net/mechanics/mec-1/mec68.cur), auto !important;
+  
+}
+
+.navbar-logo {
+    width: 100px;
+    height: auto;
+}
+
+.navbar{
+    color: black;
+}
+
+
+
+
